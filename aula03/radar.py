@@ -1,8 +1,5 @@
-
-
 velocidade_permitida = 80
 velocidade_usuario = int(input('Sua velocidade é: '))
-
 
 if velocidade_usuario <= velocidade_permitida:
     print('Não houve multa')
